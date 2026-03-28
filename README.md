@@ -17,7 +17,7 @@ A C++ code to compute the numerical simulations of the microscopic model (with/w
 ## Metastability of the liquid under small diffusion (microscopic simulations)
 
 <b>List of parameters (<i>APM_micro_omp.cpp</i>):</b> beta, D, epsilon, rho0, LX, LY,tmax, init, ran, threads (details as comments in the code).</br>
-<b>List of parameters (<i>figure_APM_droplet.py</i>):</b> beta, D, epsilon, rho0, LX, LY, tmax, init, ran, NCPU, movie (details as comments in the code).</br>
+<b>List of parameters (<i>figure_APM_micro.py</i>):</b> beta, D, epsilon, rho0, LX, LY, tmax, init, ran, NCPU, movie (details as comments in the code).</br>
 
 ## Droplet insertion (hydrodynamic solutions)
 
