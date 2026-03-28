@@ -318,7 +318,7 @@ void ReadCommandLine(int argc, char** argv, double &beta, double &D, double &eps
 
 int main(int argc, char *argv[])
 {
-	//Physical parameters: beta=inverse temperature, epsilon=self-propulsion parameter, rho0=average density, LX*LY=size of the box.
+	//Physical parameters: beta=inverse temperature, D=diffusion rate, epsilon=self-propulsion parameter, rho0=average density, LX*LY=size of the box.
 	double beta=1., D=1., epsilon=2.7, rho0=10, rhod=12;
 	int LX=200, LY=200, Rd=10;
 	
